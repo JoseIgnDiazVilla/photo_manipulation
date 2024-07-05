@@ -1,0 +1,3 @@
+/home/jose/Desktop/projects/photo_manipulation/build/CMakeFiles/DisplayImage.dir
+/home/jose/Desktop/projects/photo_manipulation/build/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/projects/photo_manipulation/build/CMakeFiles/rebuild_cache.dir

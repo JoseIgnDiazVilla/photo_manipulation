@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jose/Desktop/projects/photo_manipulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/jose/Desktop/projects/photo_manipulation/DisplayImage.cpp",
+  "file": "/home/jose/Desktop/projects/photo_manipulation/DisplayImage.cpp",
+  "output": "CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o"
+}
+]
